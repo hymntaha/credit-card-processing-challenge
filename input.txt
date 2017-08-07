@@ -1,0 +1,8 @@
+open Quinn 4111111111111111 $1000
+open Caleb 5454545454545454 $3000
+open Kyle 1234567890123456 $2000
+debit Quinn $500
+debit Quinn $800
+debit Caleb $7
+credit Caleb $100
+credit Kyle $200
